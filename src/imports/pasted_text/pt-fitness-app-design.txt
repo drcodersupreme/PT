@@ -1,0 +1,60 @@
+Design a complete modern fitness web application UI/UX in Figma for an AI-powered gym guidance platform called “PT”. The application should feel premium, futuristic, beginner-friendly, and highly polished like a professional SaaS product. Use a dark theme with black, charcoal gray, and subtle glassmorphism effects combined with neon green accent lighting. The overall design should include smooth gradients, soft shadows, glowing highlights, rounded containers, premium typography, clean spacing, modern cards, hover animations, and responsive layouts. The interface should look minimal yet powerful, inspired by high-end fitness apps, AI dashboards, and modern startup websites.
+
+Create all screens and maintain consistent branding, spacing, color palette, typography, and component system across the entire application.
+
+Include the following screens in detail:
+
+1. Landing Page:
+Create a futuristic homepage with a bold hero section featuring the app name “PT” and tagline “Train Smarter.” Include modern CTA buttons like “Start Training” and “Explore Exercises”. Add a premium athlete image or 3D gym visual with glowing effects. Include a navbar with Home, Exercises, Plans, Progress, and Login. Add feature sections explaining workout guidance, form correction, and progress tracking.
+
+2. Login and Signup Screen:
+Design a premium authentication page with dark UI, split-screen layout, rounded input fields, glowing focus states, motivational gym imagery, social login buttons, and clean onboarding experience.
+
+3. User Onboarding Flow:
+Create onboarding screens where users enter age, height, weight, fitness experience, workout goals, available equipment, workout duration, and preferred workout days. Use modern selection cards, sliders, toggles, dropdowns, and progress indicators.
+
+4. Goal Selection Screen:
+Design interactive fitness goal cards for Muscle Gain, Fat Loss, Strength, and General Fitness with smooth hover effects, icons, gradients, and clean layouts.
+
+5. Dashboard Screen:
+Design a futuristic AI-powered dashboard with sidebar navigation and sections showing Today’s Workout, workout streak, progress summary, calories burned, recent activity, recommended exercises, and motivational insights. Include modern charts, graphs, analytics cards, glassmorphism containers, and subtle animations.
+
+6. Workout Plan Screen:
+Create a weekly workout planner showing Push Day, Pull Day, Leg Day, Upper Body, Lower Body, and Rest Day. Include workout cards with exercise count, estimated duration, target muscles, and difficulty indicators. Use modern layouts and clean organization.
+
+7. Exercise Library:
+Design a searchable exercise database with filters for muscle groups, equipment, difficulty, and workout type. Include modern exercise cards with thumbnails, muscle tags, and difficulty badges.
+
+8. Exercise Detail Screen:
+This should be the strongest and most premium screen in the entire application. Include a large exercise video/GIF section demonstrating proper form. Add a muscle anatomy visualization highlighting primary and secondary muscles worked. Include step-by-step instructions, breathing technique guidance, common mistakes, sets and reps, difficulty level, and navigation buttons like Previous Exercise, Mark Complete, and Next Exercise. Make this screen highly interactive, educational, futuristic, and visually impressive.
+
+9. Workout Tracking Screen:
+Design a live workout session interface showing current exercise, timer, completed sets, rest countdown, workout progress, and exercise navigation. Use clean modern UI and glowing interaction states.
+
+10. Workout Completion Screen:
+Create a celebration screen with workout summary, calories burned, exercises completed, total duration, streak update, achievement badges, and motivational success message. Include futuristic visual effects and smooth UI animations.
+
+11. Progress Tracking Screen:
+Design a premium analytics dashboard with weight tracking charts, personal records, workout consistency graphs, body transformation progress, workout history, and fitness insights. Include modern data visualization, glassmorphism cards, and futuristic dashboard aesthetics.
+
+12. Settings and Profile Screen:
+Create a modern profile management page with user information, workout preferences, dark mode settings, notifications, achievements, and subscription options.
+
+Overall Style Requirements:
+- Dark futuristic UI
+- Minimal but premium design
+- Neon green accent lighting
+- Smooth animations and hover effects
+- Glassmorphism and soft shadows
+- Modern typography
+- Rounded cards and containers
+- Responsive web application layout
+- Beginner-friendly UX
+- AI-powered assistant vibe
+- Premium gym and fitness branding
+- Consistent component design system
+- Professional SaaS quality visuals
+- Clean spacing and hierarchy
+- Highly polished and realistic UI mockups
+
+The final result should look like a next-generation AI personal trainer platform designed by a top-tier product design agency.
